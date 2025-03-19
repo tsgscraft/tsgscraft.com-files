@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Temp",
+    "beschreibung": "Temp.",
+    "file_name": "temp.jar",
+    "repo": "https://github.com/tsgscraft/temp",
+    "disabled": true
+  },
+  {
+    "name": "Temp",
+    "beschreibung": "Temp.",
+    "file_name": "temp.jar",
+    "repo": "https://github.com/tsgscraft/temp",
+    "disabled": true
+  }
+]

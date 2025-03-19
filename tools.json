@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Get Paper",
+    "beschreibung": "A tool to download the newest version of the server software paper.",
+    "file_name": "get.jar",
+    "repo": "https://github.com/tsgscraft/getpaper",
+    "disabled": true
+  },
+  {
+    "name": "Get Forge",
+    "beschreibung": "A tool to download the newest version of forge.",
+    "file_name": "get.jar",
+    "repo": "https://github.com/tsgscraft/getforge",
+    "disabled": true
+  }
+]

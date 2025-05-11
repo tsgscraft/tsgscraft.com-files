@@ -7,7 +7,7 @@
     "disabled": false
   },
   {
-    "name": "Plugin 2.0",
+    "name": "Paper Presets",
     "beschreibung": "A dependency plugin for developed Plugins. (For Paper Server Only)",
     "file_name": "paperpresets-1.0.jar",
     "repo": "https://github.com/tsgscraft/PaperPresets",

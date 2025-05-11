@@ -8,10 +8,10 @@
   },
   {
     "name": "Plugin 2.0",
-    "beschreibung": "Zweites Plugin zum Herunterladen.",
-    "file_name": "presets-1.6.jar",
-    "repo": "https://github.com/tsgscraft/presets",
-    "disabled": true
+    "beschreibung": "A dependency plugin for developed Plugins. (For Paper Server Only)",
+    "file_name": "paperpresets-1.0.jar",
+    "repo": "https://github.com/tsgscraft/PaperPresets",
+    "disabled": false
   },
   {
     "name": "Plugin 3.0",
